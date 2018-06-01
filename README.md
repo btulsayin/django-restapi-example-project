@@ -16,3 +16,12 @@ Günümüzde iki sistemin haberleşmesinde kullanılan popüler olmuş iki tip s
 - POST : Yeni bir collection oluşturmak için kullanılır ve yeni oluşturan collection’ın URI’si döndürülür. 
         Örnek : Twitter api’de yeni gönderi paylaşma olabilir.
 - DELETE : Belirtilen Collection’ı silmek için kullanılır. Örneğin Twitter api kullanarak bir gönderiyi silmek.
+
+# Requirements
+
+- python==3.6.3 
+- django==2.0.4
+- djangorestframework==3.8.2
+- django-filter==1.1.0
+- markdown
+
