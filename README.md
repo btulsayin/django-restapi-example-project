@@ -1,7 +1,6 @@
-# django-restapi-example-project
-** REST APİ NEDİR? **
 
-    Bir uygulamanın takım fonksiyonların başka uygulamalar tarafından kullanılmasına olanak sağladığı yapiya veya sisteme API diyoruz.
+# REST APİ NEDİR? 
+
 Günümüzde iki sistemin haberleşmesinde kullanılan popüler olmuş iki tip servis haberleşmesi vardır.SOAP ve REST
 
 - REST client-server iletişimiyle ilgili bir mimaridir. 
@@ -10,6 +9,7 @@ Günümüzde iki sistemin haberleşmesinde kullanılan popüler olmuş iki tip s
 - SOAP ile en büyük farkı bizi proxy kullanmaya, bir WSDL’e  zorlamıyor olması ve kolay entegre olmasıdır.
 
 ** REST Request Tipleri **
+
 - GET :  Belirtilen collection’ın (toplanacak verinin) URL’lerini veya detaylarını listelemede kullanılır.
 - PUT : Bütün bir collection’ın bir başka collection ile yer değiştirmek için kullanılır. 
        Örnek: Twitter api’de kullanıcının paylaştığı gönderiyi düzenlemek olabilir.
